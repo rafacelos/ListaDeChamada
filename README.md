@@ -1,7 +1,7 @@
 # Lista de chamada.
 <p>Registra o nome do aluno e hora de chegada</p>
 
-<p align="center"> Deploy Link - https://rafacelos.github.io/ListaDeChamada/</p>
+<p> Deploy Link - https://rafacelos.github.io/ListaDeChamada/</p>
 
 --------------------
 > PT-BR
